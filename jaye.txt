@@ -1,8 +1,9 @@
 Hi this is charith Jayathilake from Jaye, the next big thing!!
 
-This is my first git code file. 
+This is my first git code file; New line added 
 
 I 'm trying to get out of this. If you read this it means I saved it correctly!
 
 Hi' I'm back again! After 2-3 months. Looking forward 
 
+Today is 8/7/2021
